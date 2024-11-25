@@ -35,4 +35,4 @@ FROM
 FULL OUTER JOIN
     Booking
 ON
-    User.user_ud = Booking.user_id
+    User.user_ud = Booking.user_id;
